@@ -152,6 +152,69 @@ Effect: Allow monarchs to award Orders of Battle.
 15.12.6.10 Warrior
 
 
+11 Jul 2021
+(proposal submitted by Big Mac on Facebook)
+Currently in the corpora
+14.5 Weaponmaster Tournament
+14.5.1 Shall be held on the same day as elections for Monarch and Regent, or within
+the next two weeks of that date.
+14.5.2 Shall be run by the Reeves Guild.
+14.5.3 This is a passage of arms in several different weapon classes.
+14.5.4 The Weaponmaster tournament will be a multi-bracketed, single-elimination
+tournament.
+14.5.5 The brackets must include:
+14.5.5.1 Single one-handed weapon (any melee weapon).
+14.5.5.2 Double weapon (any melee weapon).
+14.5.5.3 Shield and weapon (any melee weapon).
+14.5.5.4 Great weapon.
+14.5.5.5 Open (contestant's choice).
+14.5.6 At the Guildmaster of Reeves' discretion, the "Single one-handed weapon
+bracket" may be replaced by two separate "Single short weapon" and "Single long
+weapon" brackets. If this is not done, long weapons shall be allowed in the bracket.
+14.5.7 Other brackets may be included at the discretion of the Guildmaster of Reeves.
+Possibilities include:
+14.5.7.1 Bow.
+14.5.7.2 Dagger (single or double).
+14.5.7.3 Flail.
+14.5.7.4 Thrown weapon.
+14.5.8 Specific rules and bracket selection for the Weaponmaster Tourney must be
+posted at least two weeks prior to the date set forth for the Tournament.
+14.5.9 The winner will hold the title of Weaponmaster until the date of the next
+Weaponmaster Tournament.
+Change to
+• 14.5 Weaponmaster Tournament
+• 14.5.1 Shall be held once a reign either on the same day as elections for Monarch and
+Regent or the same day as elections for Prime Minister, or within two weeks of one of
+those dates.
+• 14.5.2 Shall be run by the Reeves Guild.
+• 14.5.3 This is a passage of arms in several different weapon classes.
+• 14.5.4 The Weaponmaster tournament will be a multi-bracketed, single-elimination
+tournament.
+• 14.5.4.1 A different tournament format may be used at the discretion of the
+Guildmaster of Reeves.
+• 14.5.5 The brackets must include:
+• 14.5.5.1 Open (contestant's choice of melee weapons and shield).
+• 14.5.6 Other brackets may be included at the discretion of the Guildmaster of Reeves.
+Possibilities include but are not limited to:
+• 14.5.6.1 Single short weapon
+• 14.5.6.2 Double short weapon
+• 14.5.6.3 Shield and short weapon
+• 14.5.6.4 Single long weapon
+• 14.5.6.5 Archery
+• 14.5.6.6 Flail
+• 14.5.6.7 Thrown weapon
+• 14.5.6.8 Great weapon
+• 14.5.6.9 Double dagger
+• 14.5.7 Three (3) or more brackets must be selected to qualify for any Order of the
+Warrior that could be received from streaks or overall wins.
+• 14.5.7.1 Unless the reigning Monarch and Champion agree to make an
+exception for fighters under five (5) Orders of the Warrior.
+• 14.5.8 Specific rules and bracket selection for the Weaponmaster Tourney must be
+posted at least two (2) weeks prior to the date set forth for the Tournament.
+• 14.5.9 The winner will hold the title of Weaponmaster until the date of the next
+Weaponmaster Tournament.
+
+
 19 Jan 2019
 On Saturday during the Allthing, two proposals were brought up by Sir Moonshine (Marc Jacob). They are as follows:
 01/19/19
