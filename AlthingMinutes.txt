@@ -879,6 +879,41 @@ Option C (below) passes
 Grant the appeal to amend the suspension to: 3 month suspension, 6 month probation, and 6 month additional suspension if probation is violated.
 
 
+27 Sep 2020
+This should have been officially added to today’s agenda.       It was left off by mistake.   This will also be voted on at the next Althing.    
+Our apologies
+The monarchy.  
+With the way discipline has been expanded to include things like probation, mutes, and removing from the kingdom page the wording of our corpora needs a bit of an update to reflect that and to ensure that the letter of the law better reflects the spirit. 
+Bylaws-Current wording
+2.6 The Operations Officer and Financial Officer acting in agreement, or the Operations Officer and Adjudication Chief acting in agreement, may enact a suspension of any member for any duration, including one of indefinite duration.
+2.7 The Operations Officer and Financial Officer acting in agreement, or the Operations Officer and Adjudication Chief acting in agreement, may repeal any such suspension at any time; this includes suspensions imposed by other officers or by previous occupants of those offices.
+2.8 Any member thus suspended may appeal their suspension at the next scheduled general membership meeting. Such an appeal is not subject to section 4.2.7 and may be voted on immediately. A simple majority vote of active members is sufficient to repeal a suspension, either at this meeting, or at any subsequent meeting where it has been introduced as an item to be voted on.
+2.9 A suspended member shall forfeit any dues paid during the time of suspension and is liable to the group for assessments or fees as a result of obligations incurred by the member prior to suspension.
+2.10 A suspended member shall be barred from participating in all group functions, including general membership meetings and any functions of subsidiary groups, with the exception of the right to appeal their suspension at the next general membership meeting after it is issued.
+2.11 A suspended member shall have all privileges which have been suspended reinstated the first day after the suspension has concluded.
+2.12 If necessary, the Financial Officer and Adjudication Chief acting in agreement may suspend the Operations Officer, or may repeal a suspension they issued under this clause. This is otherwise identical to a suspension issued in agreement with the Operations Officer.
+2.13 In the event a suspension is repealed, the decision of the officer(‘s) to repeal are to be ratified by voting members at the next Althing by simple majority vote.
+Proposed Change Wording
+2.6 The Operations Officer and Financial Officer acting in agreement, or the Operations Officer and Adjudication Chief acting in agreement, may enact disciplinary action as deemed appropriate.
+2.7 The Operations Officer and Financial Officer acting in agreement, or the Operations Officer and Adjudication Chief acting in agreement, may repeal any such disciplinary action at any time; this includes disciplinary actions imposed by other officers or by previous occupants of those offices.
+2.8 Any member thus disciplined may appeal the action taken at the next scheduled general membership meeting. Such an appeal is not subject to section 4.2.7 and may be voted on immediately. A simple majority vote of active members is sufficient to the disciplinary action, either at this meeting, or at any subsequent meeting where it has been introduced as an
+item to be voted on.
+2.9 A suspended member shall forfeit any dues paid during the time of suspension and is liable to the group for assessments or fees as a result of obligations incurred by the member prior to suspension.
+2.10 A suspended member shall be barred from participating in all group functions, including general membership meetings and any functions of subsidiary groups, with the exception of the right to appeal their suspension at the next general membership meeting after it is issued.
+2.11 A disciplined member shall have all privileges which have been removed reinstated the first day after the disciplinary action has concluded.
+2.12 If necessary, the Financial Officer and Adjudication Chief acting in agreement may enact disciplinary action on the Operations Officer, or may repeal a disciplinary action they issued under this clause. This is otherwise identical to a suspension issued in agreement with the Operations Officer.
+2.13 In the event a disciplinary action is repealed, the decision of the officer(‘s) to repeal are to be ratified by voting members at the next Althing by simple majority vote.
+Constitution- Current wording
+15.18 Suspension From Play At Holding Level
+15.18.1 A Holder and Chancellor acting in agreement may issue a suspension from gameplay for any duration.
+15.18.2 Such suspensions will not be effective at Holdings other than the one at which they were issued, but will be effective for Kingdom level gameplay scheduled to occur at the Holding
+where they were issued.
+Proposed Change Wording
+15.18 Disciplinary Action At Holding Level
+15.18.1 A Holder and Chancellor, or A Holder and Guildmaster of Reeves for that land acting in agreement may issue a Disciplinary action as deemed appropriate.
+15.18.2 Such disciplinary action will not be effective at Holdings other than the one at which they were issued, but will be effective for Kingdom level gameplay scheduled to occur at the Holding where they were issued.
+
+
 19 Jan 2019
 On Saturday during the Allthing, two proposals were brought up by Sir Moonshine (Marc Jacob). They are as follows:
 01/19/19
