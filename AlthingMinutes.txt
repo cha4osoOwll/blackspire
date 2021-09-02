@@ -85,6 +85,72 @@ As always, if you have any questions feel free to ask.
 In service always,
 Squire Overlord Falcon Moonsdotter your friendly neighborhood KPM
 
+(proposal submitted by Baelnorn on Facebook)
+I would like to add this to the next althing. Kori Wukasinovich
+This proposal adds in the ability to award Orders of Battle as well as renumbers the awards to be alphabetical
+Effect: Allow monarchs to award Orders of Battle.
+“In Constitution, change from”
+2.3.4.1 Crown 
+2.3.4.2 Dragon 
+2.3.4.3 Flame 
+2.3.4.4 Garber
+2.3.4.5 Lion 
+2.3.4.6 Owl 
+2.3.4.7 Rose 
+2.3.4.8 Smith 
+2.3.4.9 Warrior
+“Change to”
+2.3.4.1 Battle
+2.3.4.2 Crown 
+2.3.4.3 Dragon 
+2.3.4.4 Flame 
+2.3.4.5 Garber
+2.3.4.6 Lion 
+2.3.4.7 Owl 
+2.3.4.8 Rose 
+2.3.4.9 Smith 
+2.3.4.10 Warrior
+“In Constitution, change from”
+2.3.6.1 Master Dragon 
+2.3.6.2 Master Garber 
+2.3.6.3 Master Lion 
+2.3.6.4 Master Owl 
+2.3.6.5 Master Rose 
+2.3.6.6 Master Smith 
+2.3.6.7 Master Warrior (also known as Warlord) 
+2.3.6.8 Master Hydra (to members holding 10 Orders of the Hydra) 2.3.6.9 Master Reeve (to members with 12 or more credits as Reeve) 
+“Change to”
+2.3.6.1 Master Battle
+2.3.6.2 Master Dragon
+2.3.6.3Master Garber 
+2.3.6.4Master Lion 
+2.3.6.5 Master Owl 
+2.3.6.6 Master Rose 
+2.3.6.7 Master Smith 
+2.3.6.9 Master Warrior (also known as Warlord) 2.3.6.8 Master Hydra (to members holding 10 Orders of the Hydra)
+2.3.6.9 Master Reeve (to members with 12 or more credits as Reeve) 
+“In Constitution, change from”
+15.12.6.1 Crown 
+15.12.6.2 Dragon 
+15.12.6.3 Flame 
+15.12.6.4 Garber 
+15.12.6.5 Lion 
+15.12.6.6 Owl 
+15.12.6.7 Rose 
+15.12.6.8 Smith 
+15.12.6.9 Warrior
+“Change to”
+15.12.6.1 Battle
+15.12.6.2 Crown 
+15.12.6.3 Dragon 
+15.12.6.4 Flame 
+15.12.6.5 Garber 
+15.12.6.6 Lion 
+15.12.6.7 Owl 
+15.12.6.8 Rose 
+15.12.6.9 Smith 
+15.12.6.10 Warrior
+
 
 19 Jan 2019
 On Saturday during the Allthing, two proposals were brought up by Sir Moonshine (Marc Jacob). They are as follows:
