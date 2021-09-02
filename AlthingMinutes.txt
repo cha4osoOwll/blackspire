@@ -593,6 +593,92 @@ As neither candidate met the requirements to run for Champion, we will be holdin
 election at the next Althing
 
 
+29 Jan 2021
+(proposal submitted by Akryn on Facebook)
+Updated proposal from my previous one. This is one connected proposal added the ability for the monarch to delegate the authority to award titles to the land level. This contains the previous change at the holder section of the constituion and adds:
+2.3.1.1 Has the authority to delegate the awarding of noble titles to land holders as outlined under section 15.12.8 of this document.
+This extra change is to satisfy the sections in the Rules of play under awards.
+Each land level has different titles for service with excellence for each positions. for instance Duchy level Holders are given the title Baron for excellence, Barony level Holders are given Baronet, and Shire level Holders are given Lord.
+This change is meant to help ensure everyone get's recognized by allowed more to be done at the local level instead of it all being done at the kingdom level. The holders are the ones that work directly with their teams and this would allow them to recognize their work directly. This is meant to be specifically for awarding the officers that served and not the general authority of granting the title Lord for service to the kingdom as per earlier portions of the constitution given to the monarch.
+Attached is the format for the change.
+
+Constitution Change
+Old wording
+2 Monarch
+2.1 The kingdom's Operations Officer shall be known in-game as
+its Monarch.
+2.2 Only those who qualify at Crown Qualifications may try for
+Monarch.
+2.3 May award the following:
+2.3.1 Titles of Nobility (at the Monarch's discretion)
+2.3.2 Non-noble Titles (at the Monarch's discretion)
+2.3.3 Peerage (per Awards Standardization)
+2 Monarch
+2.1 The kingdom's Operations Officer shall be known in-game as
+its Monarch.
+2.2 Only those who qualify at Crown Qualifications may try for
+Monarch.
+2.3 May award the following:
+2.3.1 Titles of Nobility (at the Monarch's discretion)
+2.3.1.1 Has the authority to delegate the awarding of noble titles to land holders as outlined under section 15.12.8 of this document.
+2.3.2 Non-noble Titles (at the Monarch's discretion)
+2.3.3 Peerage (per Awards Standardization)
+Old wording
+15.12.6 May award the following Orders (as per Awards
+Standardization)
+15.12.6.1 Crown
+15.12.6.2 Dragon
+15.12.6.3 Flame
+15.12.6.4 Garber
+15.12.6.5 Lion
+15.12.6.6 Owl
+15.12.6.7 Rose
+15.12.6.8 Smith
+15.12.6.9 Warrior
+15.12.7 May award the following Orders (per the Holder's
+discretion):
+15.12.7.1 Griffon
+15.12.8 May create new honors, awards and titles that do not
+conflict/compete with those listed in this document or the
+Awards Standardization.
+15.12.9 Has the authority to expend up to 10% of the Holding
+treasury per month. Any further expenditures require
+authorization by a Holding Althing.
+15.12.10 At the end of their term, if it was served with
+excellence, may receive one of the following titles, depending
+on the status of their Holding:
+15.12.10.1 Shire: recommended to be given the title of Lord.
+15.12.10.2 Barony: recommended to be given the title of Baronet.
+15.12.10.3 Duchy: recommended to be given the title of Baron.
+New Wording
+15.12.6 May award the following Orders (as per Awards
+Standardization)
+15.12.6.1 Crown
+15.12.6.2 Dragon
+15.12.6.3 Flame
+15.12.6.4 Garber
+15.12.6.5 Lion
+15.12.6.6 Owl
+15.12.6.7 Rose
+15.12.6.8 Smith
+15.12.6.9 Warrior
+15.12.7 May award the following Orders (per the Holder's
+discretion):
+15.12.7.1 Griffon 15.12.8 Titles of Nobility to those officers that served in their holding up to the level outlined by the corpora, as long as the authority has been delegated that reign by the monarch to land level.
+15.12.9 May create new honors, awards and titles that do not
+conflict/compete with those listed in this document or the
+Awards Standardization.
+15.12.10 Has the authority to expend up to 10% of the Holding
+treasury per month. Any further expenditures require
+authorization by a Holding Althing.
+15.12.11 At the end of their term, if it was served with
+excellence, may receive one of the following titles, depending
+on the status of their Holding:
+15.12.12.1 Shire: recommended to be given the title of Lord.
+15.12.12.2 Barony: recommended to be given the title of Baronet.
+15.12.12.3 Duchy: recommended to be given the title of Baron.
+
+
 19 Jan 2019
 On Saturday during the Allthing, two proposals were brought up by Sir Moonshine (Marc Jacob). They are as follows:
 01/19/19
