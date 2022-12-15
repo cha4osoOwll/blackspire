@@ -1,4 +1,5 @@
 BYLAWS
+
 1 Officers
 1.1 All officers are subject to the attached indemnification agreement.
 1.2 Any officer may be impeached by a petition signed by at least 20% of all active dues paid
@@ -133,6 +134,7 @@ Operations Officer may appoint a replacement.
 1.7.2 May be dismissed by the joint agreement of the Operations Officer and Treasurer.
 1.7.3 If, for whatever reason, the position of Property Manager is vacated, the
 Operations Officer with the agreement of the Treasurer may appoint a replacement.
+
 2 Membership
 2.1 A member must be registered with a subsidiary group.
 2.2 A member must pay dues to their subsidiary group, and their subsidiary group must remit ½
@@ -206,6 +208,7 @@ a PDF of the ballot, including instructions on how to submit the vote. The instr
 the kingdom email address and instructions of submitting a picture of the ballot as well as a
 picture of the voter holding the ballot.
 3.10.1 Online voting will be kept open for a minimum of 48 hours.
+
 4 Meetings
 4.1 Board of Directors Meetings
 4.1.1 The Board of Directors shall meet to discuss business as necessary.
@@ -236,6 +239,7 @@ agreement.
 4.2.8 No issues voted on by the general membership may be brought up again before a
 general membership meeting for at least six months, unless said issue(s) put the group in a
 legal or contractual breach.
+
 5 Subsidiary Groups
 5.1 Each subsidiary group must elect one of its members as representative.
 5.2 Must sign the standard agreement with the central Amtgard Board of Directors.
@@ -271,6 +275,7 @@ Treasurer. This shall be the responsibility of the subsidiary group's representa
 Subsidiary Group Confederations below).
 5.9 Officers of subsidiary groups may not also serve as the main group's Operations
 Officer, Assistant Operations Officer, or Financial Officers.
+
 6 Subsidiary Group Confederations
 6.1 Subsidiary group confederations are groups of subsidiary groups (sponsored by the
 main group) who have gained permission from the main group (through a vote at a general
@@ -289,6 +294,7 @@ requires.
 group, its component subsidiary groups will each independently decide whether they wish to join
 the new independent main group as subsidiary groups of its own, or remain as subsidiary
 groups of this group.
+
 7 Independent Subsidiary Groups
 7.1 Groups based at a physical location more than 150 miles away from Salem, Oregon are
 eligible to become Independent Subsidiary Groups.
@@ -297,6 +303,7 @@ exceptions:
 7.2.1 Members of independent subsidiary groups have no voting rights.
 7.2.2 Independent subsidiary groups are not required to remit any portion of dues paid by their
 members.
+
 8 Dissolution
 8.1 Should the group dissolve,all assets must be eliminated.
 8.2 Assets may not be eliminated by distribution to group members.
