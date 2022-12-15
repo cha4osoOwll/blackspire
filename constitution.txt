@@ -144,10 +144,11 @@ upon themself to maintain a registry of the heraldry of the kingdom's members.
 written request to do so to the Prime Minister. Any title or award renounced in such a fashion
 shall be immediately removed from their record, and this decision cannot be rescinded.
 12.2 Stripping Awards and Titles
-12.2.1 Any award or title may be rescinded by a 2/3 majority vote at a group membership
-meeting
-12.2.2 If the person whose title to be removed no longer resides within the kingdom,
-agreement of their local kingdom monarchy is also required.
+12.2.1 Any award or title may be rescinded by a 2/3 majority vote at a group membership meeting
+12.2.1.1 A General Membership Meeting may use this authority in conjunction with an indefinite suspension as per Bylaws 2.6
+12.2.1.1.1 In the event that the above does not pass at the time of the initial suspension, a General Membership Meeting 12.2.1 may not be called again for the initial suspension.
+12.2.1.2 Awards so stripped may not be restored by a General Membership meeting but may be bestowed again as new awards by the appropriate authority.
+12.2.2 If the person whose title to be removed no longer resides within the kingdom, agreement of their local kingdom monarchy is also required.
 12.3 Knighthood
 12.3.1 In addition to the criteria set by Awards Standardization, Monarchs are very strongly
 suggested to acquire the approval of the current circle of Knights before awarding a new
