@@ -1,4 +1,5 @@
 CONSTITUTION
+
 1 Awards Standardization
 1.1 The kingdom is bound by all agreements ratified by the Amtgard Circle of Monarchs,
 including the interkingdom Awards Standardization Agreement which can be found among the
@@ -6,6 +7,7 @@ Bylaws and Rulings of the Circle of Monarchs and is listed for reference in the 
 the Amtgard Rules of Play.
 1.2 As this agreement will be referenced repeatedly in this document it will be referred to simply
 as "Awards Standardization" for concision.
+
 2 Monarch
 2.1 The kingdom's Operations Officer shall be known in-game as its Monarch.
 2.2 Only those who qualify at Crown Qualifications may try for Monarch.
@@ -54,6 +56,7 @@ excellence:
 2.6.1 Knight of the Crown (per Awards Standardization)
 2.6.2 Duke/Duchess (or Grand Duke/Grand Duchess for serving two or more terms as
 Monarch)
+
 3 Regent
 3.1 The kingdom's Assistant Operations Officer shall be known in-game as its Regent.
 3.2 Only those who qualify at Crown Qualifications may try for Regent.
@@ -81,9 +84,11 @@ Monarch)
 with those listed in this document or the Awards Standardization.
 3.6 At the end of their term, if served with excellence, they may receive the title of
 Count/Countess.
+
 4 Prime Minister
 4.1 The kingdom's Financial Officer shall be known in-game as its Prime Minister.
 4.2 At the end of their term, if served with excellence, may receive the title of Baron/Baroness.
+
 5 Champion
 5.1 The kingdom's Safety Officer shall be known in-game as its Champion.
 5.2 Only those who qualify at Crown Qualifications may try for Champion.
@@ -94,19 +99,23 @@ Count/Countess.
 5.3.4 Titles of Paragon in a specific Class (at the Champion's discretion)
 5.4 The Champion shall be the defender of the crown.
 5.5 At the end of their term, if served with excellence, may receive the title of Defender.
+
 6 Guildmaster of Reeves
 6.1 The kingdom's Adjudication Chief shall be known in-game asits Guildmaster of Reeves.
 6.2 May bestow the following Orders (per Awards Standarization):
 6.2.1 Battle
 6.2.2 Warrior
 6.2.3 Titles of Paragon in a specific Class (at the Guild Master of Reeves' discretion)
+
 7 Reeves
 7.1 Referees shall be known in-game as Reeves.
+
 8 Monarch's Guard
 8.1 Appointment and dismissal are at the Monarch's discretion.
 8.2 Shall ensure that the Monarch and Regent are properly escorted.
 8.3 Shall be responsible for in-game security at kingdom events (i.e., their security function is a
 roleplay aspect).
+
 9 Class Guildmaster
 9.1 Must keep the members of their class following the proper rules for that class.
 9.2 Shall help new members of the class learn the rules for their class.
@@ -115,6 +124,7 @@ roleplay aspect).
 revisions to the Monarch and Althing.
 9.5 Class guildmasters may be removed from office by a ⅔ vote of all members of a class and
 approval of the Monarch and Prime Minister.
+
 10 Arts and Science Guildmasters
 10.1 If popular interest permits, a Guildmaster may be elected to head an arts and sciences
 guild, at the same time as the Monarch and Regent are elected.
@@ -124,8 +134,10 @@ their particular discipline.
 example a Guildmaster of Garbers may take it upon themselves to assess garb and present
 Order of the Garber recommendations to the Regent, or a Guildmaster of Heraldry may take it
 upon themself to maintain a registry of the heraldry of the kingdom's members.
+
 11 Althing
 11.1 General membership meetings shall be known in-game as Althings.
+
 12 Honors and Awards
 12.1 Renouncing Awards and Titles
 12.1.1 Any member may voluntarily renounce any title or award given to them by submitting a
@@ -236,6 +248,7 @@ below).
 12.13.2 Esquire
 12.13.2.1 Recommended title for serving a term with excellence in Holding office (see
 below).
+
 13 Order of Precedence
 13.1 Monarch
 13.2 Prime Minister
@@ -267,6 +280,7 @@ below).
 13.28 Head of a household
 13.29 Squire
 13.30 Reeve
+
 14 Month of the Crown
 14.1 The 30 days prior to Coronation is the Month of the Crown.
 14.2 Crown Qualifications
@@ -335,7 +349,7 @@ least two (2) weeks prior to the date set forth for the Tournament.
 Tournament.
 14.6 Coronation Feast
 14.6.1 The coronation feast is the responsibility of the outgoing Regent.
-14.7 Dragon14.7
+14.7 Dragonmaster
 14.7.1 Shall be held once a reign.
 14.7.2 The sponsor for this event will be the Regent.
 14.7.2.1 The regent my appoint someone else to run the event.
@@ -351,7 +365,8 @@ heraldry, singing, instrumental music, factual writing, composition, weapon and 
 construction, passive construction, court garb, fighting garb, strategic gaming, poetry,
 brewing and wine-making, etc
 14.7.6 Specific rules for Dragonmaster shall be put out by the sponsor at least six
-weeks prior to the scheduled date of the Dragonmaster.master
+weeks prior to the scheduled date of the Dragonmaster.
+
 15 Holdings
 15.1 Subsidiary groups shall be known in-game as Holdings.
 15.2 Holdings that are members of subsidiary group confederations are not subject to this
@@ -499,11 +514,9 @@ following titles, depending on the status of their Holding:
 5.16.1 The Senior Reeve is a Holding-level office serving a role similar to the Guildmaster of
 Reeves.
 15.16.2 No powers granted to the Guildmaster of Reeves in this corpora should be assumed
-to
-apply equally to a Senior Reeve; only those powers specifically granted to them.
+to apply equally to a Senior Reeve; only those powers specifically granted to them.
 15.16.2 All references in the Rules of Play to gameplay functions fulfilled by the Guildmaster
-of
-Reeves applies equally to the Senior Reeve regarding Holding level gameplay.
+of Reeves applies equally to the Senior Reeve regarding Holding level gameplay.
 15.16.3 May award the following Orders (as per Awards Standardization):
 15.16.3.1 Battle
 15.16.3.2 Warrior
@@ -535,16 +548,17 @@ of the Chancellor election, which shall be administered by the Holder.
 office to enter or meet minimum requirements in them.
 15.17.6.1 If this is done, the Kingdom Crown Qualification procedure should be used as
 a model, but a lower number of entries required commensurate with the smaller size of
-theHolding is suggested.
+the holding is suggested.
 15.17.6.2 Holdings may hold their own versions of Warmaster, Weaponmaster and
 Dragonmaster tournaments but the winners of these events are not granted the title of
 Warmaster, Weaponmaster or Dragonmaster.
 15.18 Disciplinary Action At Holding Level
-15.18.1 A Holder and Chancellor, or A Holder and Guildmaster of Reeves for that land acting
+15.18.1 A Holder and Chancellor, or a Holder and Guildmaster of Reeves for that land acting
 in agreement may issue a Disciplinary action as deemed appropriate.
 15.18.2 Such disciplinary action will not be effective at Holdings other than the one at which
 they were issued, but will be effective for Kingdom level gameplay scheduled to occur at the
 Holding where they were issued
+
 16 Principalities
 16.1 Subsidiary group confederations shall be known in-game as Principalities.
 16.2 Principalities are expected to maintain their own corpora, in preparation for their ascension
