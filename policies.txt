@@ -7,7 +7,7 @@ required that at least one event be scheduled with each subsidiary group per ter
 1.1.3 May appoint, or defer to a vote at a general membership meeting, a Rules
 Representative.
 1.1.4 Is authorized by the Board of Directors to sign any legally binding contract or agreement
-with Amtgard,International.
+with Amtgard International.
 1.1.5 May create Committees for purposes of organizing beneficials actions for the kingdom.
 1.1.6 Examples may include but are not limited to:
 1.1.6.1 Rules Change Committee
@@ -43,8 +43,9 @@ them, and they must be made public in the minutes of the meeting in which they a
 that does not conflict with the group’s bylaws and policies.
 1.5.7 Any exercise of these powers requires only a simple majority vote at a Board of
 Directors meeting.
+
 2 Additional Officers
-2.1 SafetyOfficer
+2.1 Safety Officer
 2.1.1 Shall be the winner of an open ballot election at the same time as the Operations Officer
 and Assistant Operations Officer are selected.
 2.1.2 Must be an active dues paid member of at least 18 years of age.
@@ -82,6 +83,7 @@ to requested organization events.
 2.3.4.6 Maintain the trailer, keeping it in a working order
 2.3.4.7 Maintain a worklog on any maintenance
 2.3.4.8 Maintain a travel checklist to ensure safety before and during travel.
+
 3 Polls
 3.1 Group officers may run informational polls at their discretion in order to determine how best
 to serve the group.
@@ -92,6 +94,7 @@ powers already granted to them.
 3.3 Group officers may run them at their discretion, including or excluding inactive members,
 non dues paid members, non-members, or any other persons whose opinion they are interested
 in targeting.
+
 4 Expenditures
 4.1 Certain officers are empowered by the bylaws to make expenditures from the group
 treasury.
@@ -101,6 +104,7 @@ must be provided.
 of the date of the withdrawal of funds.
 4.4 No officer has the authority to make any use of the group treasury unless explicitly granted
 such authority by the bylaws, and only to the extent granted to them by the bylaws.
+
 5 Referees
 5.1 Must have passed a qualifying test administered by the Adjudication Chief with a score of
 75% or better within the past six months.
@@ -109,15 +113,18 @@ Adjudication Chief.
 5.3 Shall use this authority to ensure that games are:
 5.3.1 Safe to all participants and bystanders.
 5.3.2 Played honestly and in keeping with the spirit of the game rules.
+
 6 Rules Representative
 6.1 Must be an active member of the group.
 6.2 Responsible for collecting, collating, and reporting the group's wishes with respect to the
 Rules Revision Process.
+
 7 Membership
 7.1 The Amtgard Code of Conduct as established in the rules of play and the Circle of Monarchs
 bylaws should be used as the policy to guide when it is appropriate for group officers to exercise
 their authority to suspend members.
 7.2 Any indefinite suspension of a member will be reported to the Amtgard Circle of Monarchs.
+
 8 General Membership Meetings
 8.1 Anyone may attend a general membership meeting unless specifically barred.
 8.2 Rules of order may be set by the Operations Officer. If so,their enforcement shall be the
@@ -133,6 +140,7 @@ following:
 8.5.1 The line number of the item to be added, removed or modified.
 8.5.2 The current text as written.
 8.5.3 The proposed text addition, deletion, or modification.
+
 9 Election Cycle
 9.1 Crown Qualifications
 9.1.1 This event shall be held within the first or second week of February and August.
@@ -158,6 +166,7 @@ Operations Officer.
 9.2.2 Only those who qualified for office at the Crown Qualifications to be eligible to run for
 Safety Officer may participate in the Champion's Tournament.
 9.2.3 The Champion's Tournament shall be a double-elimination open weapon tournament.
+
 10 Subsidiary Groups
 10.1 Policies of the main group shall have precedence over policies of the subsidiary groups;
 subsidiary groups may not overrule policies set by a vote of active members at a general
@@ -166,6 +175,7 @@ membership meeting.
 except where explicitly stated to.
 10.3 Are entitled to the use of the group's non-profit numbers for requests deemed reasonable
 by the Board of Directors.
+
 11 Events
 11.1 Referees responsible for a tournament of any kind shall:
 11.1.1 Report the overall winner to the Financial Officer.
@@ -325,6 +335,7 @@ The group officers will review the bids and will announce their decision of who 
 process by May1st.
 11.6.6 Changes to this subsection and all subsections thereof may only be made by a
 super-majority vote of 2/3 of the active members voting.
+
 12 Trailer Policy
 12.1 Operations Officer, Treasurer and Property Manager will each have a key to the trailer.
 12.2 Maintenance
@@ -335,6 +346,7 @@ maintenance and request an estimated amount of money to fix it.
 do not need to approach a General Meeting.
 12.2.3 Once fixed they will provide the appropriate receipts to the Treasurer and return any
 unspent money.
+
 13 Miscellaneous
 13.1 Infraction Sheet
 13.1.1 For previous offenses against the group please the Infraction Sheet.
@@ -344,6 +356,7 @@ the punishment has been altered between the date first issued to the present day
 13.2 All current Blackspire monarchy and all current members of the Board of Directors will be
 moderators on official forms of communication. Clarification: The Monarch would still be in
 charge of how these moderators were utilized.
+
 14 Non-Retaliation Policies
 14.1 Introduction
 14.1.1 The Board of Directors of the Kingdom of Blackspire is committed to conducting its
@@ -369,6 +382,7 @@ about violations of laws, regulations, or policies, mundane or otherwise. Report
 knowingly false, made with malicious intent, or with reckless disregard for or willful ignorance of
 facts that would disprove the allegation made are not good faith reports, are prohibited by this
 policy, and may subject the violator to disciplinary action.
+
 15 Gate Procedures
 15.1 By the week before the event, the autocrat or their designee will obtain the gate supplies.
 15.1.1 Anyone that is working a gate shift should be sober in order to handle and be
@@ -404,7 +418,7 @@ monies, these will be approved by the approving authority.
 15.12 The BOD Treasurer or Financial Officer will report to the BOD on the event, stating
 whether the event turned a profit, lost money, or broke even.The event sign-in sheets will be
 turned over to the Financial Officer for appropriate disposition.
-15.13 The BODTreasurer or Financial Officer will deposit all the funds into the Kingdom bank
+15.13 The BOD Treasurer or Financial Officer will deposit all the funds into the Kingdom bank
 account as soon as possible.
 15.14 If any of the above-mentioned parties are not at the event, their duties will be given
 temporarily to one of the BOD members.
