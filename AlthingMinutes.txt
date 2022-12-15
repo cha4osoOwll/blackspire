@@ -580,8 +580,43 @@ I think that about covers everything. I have been working on all this stuff all 
 In service always,
 Squire Overlord Falcon Moonsdotter your faithful KPM of Blackspire
 
-29 Aug 2021
+12 Sep 2021
+So, I totally stayed up last night to count the votes at midnight. Then I decided to recount them this morning, just in case because I was tired. So now, I have the final results of the #althing from Sept 12 2021.
+Proposal 1
+Grants Monarch power to award Order of the Battle
+32 Yes, 1 No, 3 Abstain
+Passes
+Proposal 2
+Grants Monarch power to award Master of the Battle
+32 Yes, 1 No, 3 Abstain
+Passes
+Proposal 3
+Grants Holder power to award Order of the Battle
+31 Yes, 1 No, 4 Abstain
+Kingdom Champion
+Ratification of Argllwyd Squire Wyell Voad
+20 Yes, 5 No, 11 Abstain
+Wyell is the new Champion
+Duey's Suspension
+Uphold suspension for 6mo
+22 Yes, 10 No, 4 Abstain
+Suspension does not change
+Hope's Suspension
+Uphold indefinite suspension
+33 Yes, 0 No, 3 Abstain
+Change to 6 mo suspension with 1 year probation
+1 Yes, 31 No, 4 Abstain
+Suspension does not change
+Xena suspension
+Uphold indefinite suspension
+34 Yes, 0 No, 2 Abstain
+Suspension does not change
+In service,
+Overlord Squire Falcon Moonsdotter KPM of Black Spire
+
+30 Aug 2021
 Good evening populace of Black Spire. I come to bearing the results of the votes. I know many of you were on the edge of your seats waiting for the results. We had 39 votes total. I want to thank all of you who voted, I was pleased with this turn out. Now, if you did not specifically select "yes" or "no" your vote got counted as "Abstain" after running the numbers of those who did not select anything after voting for someone else, even if those had been "no" votes, the winners would not have changed.
+#althing
 Our once and future King Theory returns! Requiem will be Theory's partner in crime. Farlanok will be joining us on the monarchy team as GMR.
 Monarchy:
 Duke Akryn: Yes 16, No 15, Abstain 8
@@ -636,43 +671,8 @@ Baron Farlanok Silvershield: Yes 8, No 10, Abstain 21
 Lord Wyell Voad: Yes 2, No 11, Abstain 26
 Write in Loki: 1
 
-12 Sep 2021
-So, I totally stayed up last night to count the votes at midnight. Then I decided to recount them this morning, just in case because I was tired. So now, I have the final results of the #althing from Sept 12 2021.
-Proposal 1
-Grants Monarch power to award Order of the Battle
-32 Yes, 1 No, 3 Abstain
-Passes
-Proposal 2
-Grants Monarch power to award Master of the Battle
-32 Yes, 1 No, 3 Abstain
-Passes
-Proposal 3
-Grants Holder power to award Order of the Battle
-31 Yes, 1 No, 4 Abstain
-Kingdom Champion
-Ratification of Argllwyd Squire Wyell Voad
-20 Yes, 5 No, 11 Abstain
-Wyell is the new Champion
-Duey's Suspension
-Uphold suspension for 6mo
-22 Yes, 10 No, 4 Abstain
-Suspension does not change
-Hope's Suspension
-Uphold indefinite suspension
-33 Yes, 0 No, 3 Abstain
-Change to 6 mo suspension with 1 year probation
-1 Yes, 31 No, 4 Abstain
-Suspension does not change
-Xena suspension
-Uphold indefinite suspension
-34 Yes, 0 No, 2 Abstain
-Suspension does not change
-In service,
-Overlord Squire Falcon Moonsdotter KPM of Black Spire
-
-30 Aug 2021
+29 Aug 2021
 Good evening populace of Black Spire. I come to bearing the results of the votes. I know many of you were on the edge of your seats waiting for the results. We had 39 votes total. I want to thank all of you who voted, I was pleased with this turn out. Now, if you did not specifically select "yes" or "no" your vote got counted as "Abstain" after running the numbers of those who did not select anything after voting for someone else, even if those had been "no" votes, the winners would not have changed.
-#althing
 Our once and future King Theory returns! Requiem will be Theory's partner in crime. Farlanok will be joining us on the monarchy team as GMR.
 Monarchy:
 Duke Akryn: Yes 16, No 15, Abstain 8
