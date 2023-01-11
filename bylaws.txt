@@ -45,24 +45,23 @@ business that arises until the scheduled election appoints a new Operations Offi
 1.3.2 Financial Officer
 1.3.2.1 Is a member of the Board of Directors.
 1.3.2.2 Is responsible for collecting all in-game fees and duties.
-1.3.2.3 Shall conduct all in-game elections except for the election of Financial Officer
-(which shall be conducted by the Operations Officer).
-1.3.2.4 Has the authority to expend up to 10% of the group treasury (this includes the
-Main bank account, the Kingdom cash box, and the PayPal account and will not include
+1.3.2.3 Shall conduct all in-game elections except for the election of Financial Officer (which shall be conducted by the Operations Officer).
+1.3.2.4 Has the authority to pay Amtgard International licensing fees and state nonprofit corporation registration fees using the group treasury general fund.
+1.3.2.5 Has the authority to expend up to 10% of the group treasury (this includes theMain bank account, the Kingdom cash box, and the PayPal account and will not include
 holding funds, the PacWar bank or PayPal accounts, or the Winterbash bank or PayPal
 accounts) per month. May not be used for personal expenses, or outside the scope of
 Kingdom duties. Any further expenditures require authorization by a general membership
 meeting.
-1.3.2.5 Has the authority to sign checks drawn against the group’s bank accounts for
+1.3.2.6 Has the authority to sign checks drawn against the group’s bank accounts for
 expenditures that are authorized by the bylaws or by a vote of the general membership.
-1.3.2.6 May not hold the office for more than two consecutive terms. (Holding the office
+1.3.2.7 May not hold the office for more than two consecutive terms. (Holding the office
 pro-tem shall not count towards this limit.)
-1.3.2.7 Shall relinquish the position if they miss more than two general membership
+1.3.2.8 Shall relinquish the position if they miss more than two general membership
 meetings in a row or more than three general membership meetings total over the
 course of their six-month term.
-1.3.2.8 Shall relinquish the position if they miss more than one board of directors
+1.3.2.9 Shall relinquish the position if they miss more than one board of directors
 meeting over the course of their six-month term.
-1.3.2.9 If, for whatever reason, the office of Financial Officer is vacated, an emergency
+1.3.2.10 If, for whatever reason, the office of Financial Officer is vacated, an emergency
 election must be held within two weeks of the date the office is vacated.
 1.3.3 Other Members of the Board of Directors
 1.3.3.1 Six group members shall be chosen by open ballot to serve in this capacity.
