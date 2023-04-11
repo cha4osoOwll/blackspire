@@ -37,15 +37,16 @@ outlined under section 15.12.8 of this document.
 2.3.5.6 Zodiac
 2.3.6 The following Titles of Masterhood (per Awards Standardization):
 2.3.6.1 Master Battle
-2.3.6.2 Master Dragon
-2.3.6.3 Master Garber
-2.3.6.4 Master Lion
-2.3.6.5 Master Owl
-2.3.6.6 Master Rose
-2.3.6.7 Master Smith
-2.3.6.8 Master Warrior (also known as Warlord
-2.3.6.9 Master Hydra (to members holding 10 or more Orders of The Hydra)
-2.3.6.10 Master Reeve (to members with 12 or more credits as Reeve)
+2.3.6.2 Master Crown
+2.3.6.3 Master Dragon
+2.3.6.4 Master Garber
+2.3.6.5 Master Lion
+2.3.6.6 Master Owl
+2.3.6.7 Master Rose
+2.3.6.8 Master Smith
+2.3.6.9 Master Warrior (also known as Warlord
+2.3.6.10 Master Hydra (to members holding 10 or more Orders of The Hydra)
+2.3.6.11 Master Reeve (to members with 12 or more credits as Reeve)
 2.3.7 Titles of Paragon in a specific Class (at the Monarch's discretion)
 2.4 May create new honors, awards and titles that do not conflict/compete with those listed in
 this document or the Awards Standardization.
@@ -63,23 +64,25 @@ Monarch)
 3.3 May bestow the following Orders (per Awards Standardization):
 3.3.1 Dragon
 3.3.2 Garber
-3.3.3 Lion
-3.3.4 Owl
-3.3.5 Rose
-3.3.6 Smith
-3.3.7 Warrior
-3.3.8 Crown
-3.3.9 Battle
+3.3.3 Hydra
+3.3.4 Lion
+3.3.5 Owl
+3.3.6 Rose
+3.3.7 Smith
+3.3.8 Warrior
+3.3.9 Crown
+3.3.10 Battle
 3.4 May bestow the following Titles of Masterhood (per Awards Standardization):
-3.4.1 Master Dragon
-3.4.2 Master Garber
-3.4.3 Master Lion
-3.4.4 Master Owl
-3.4.5 Master Rose
-3.4.6 Master Smith
-3.4.7 Master Warrior (also known as Warlord)
-3.4.8 Master Hydra (to members holding 10 Orders of the Hydra)
-3.4.9 Master Reeve (to members with 12 or more credits as Reeve)
+3.4.1 Master Crown
+3.4.2 Master Dragon
+3.4.3 Master Garber
+3.4.4 Master Lion
+3.4.5 Master Owl
+3.4.6 Master Rose
+3.4.7 Master Smith
+3.4.8 Master Warrior (also known as Warlord)
+3.4.9 Master Hydra (to members holding 10 Orders of the Hydra)
+3.4.10 Master Reeve (to members with 12 or more credits as Reeve)
 3.5 May create new honors and awards in keeping with their duties that do not conflict/compete
 with those listed in this document or the Awards Standardization.
 3.6 At the end of their term, if served with excellence, they may receive the title of
